@@ -4,7 +4,6 @@ This is an analysis of house pricing and a price prediction for four districts i
 
 
 As for data collection, please see from below links:
-
 內政部不動產交易實價登錄 https://plvr.land.moi.gov.tw/DownloadOpenData
 
 地號轉經緯度API https://twland.ronny.tw/
