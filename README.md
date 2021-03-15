@@ -1,9 +1,9 @@
 # House_Price_NewTaipei_4district
 
-### This is an analysis of house pricing and a price prediction for four districts in New Taipei City. 
+This is an analysis of house pricing and a price prediction for four districts in New Taipei City. 
 
 
-### As for data collection, please see from below links:
+As for data collection, please see from below links:
 
   - 內政部不動產交易實價登錄 https://plvr.land.moi.gov.tw/DownloadOpenData
 
